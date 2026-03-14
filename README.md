@@ -11,11 +11,7 @@
 
 官方Telegram群组：[https://t.me/+4fWSSbQn5rMxYjM1](https://t.me/+4fWSSbQn5rMxYjM1)
 
-官方QQ交流群（[二维码](https://github.com/jiangrui1994/CloudSaver?tab=readme-ov-file#%E8%81%94%E7%B3%BB%E6%96%B9%E5%BC%8F)）：
-
-1039610300(满了)
-
-389429056(满了)
+官方QQ交流群（[群地址](https://www.yuque.com/xiaoruihenbangde/ggogn3/ga6gaaiy5fsyw62l#lsPla))
 
 版本更新日志：[https://www.yuque.com/xiaoruihenbangde/ggogn3/vxoqxkx4rkcz3g94](https://www.yuque.com/xiaoruihenbangde/ggogn3/vxoqxkx4rkcz3g94)
 
@@ -307,8 +303,7 @@ docker-compose up -d
 
 <div align="center">
   <div>
-    <p>qq交流群(4群)(1058040657)</p>
-    <img src="https://cdn.nlark.com/yuque/0/2025/jpeg/5363273/1760079011167-1959c912-513b-4bdb-a1cd-07712d458788.jpeg?x-oss-process=image%2Fformat%2Cwebp%2Finterlace%2C1" height="300" alt="qq群">
+   官方QQ交流群（群地址(https://www.yuque.com/xiaoruihenbangde/ggogn3/ga6gaaiy5fsyw62l#lsPla))
   </div>
 </div>
 
