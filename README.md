@@ -316,12 +316,12 @@ docker-compose up -d
 - ⭐ 给项目点个 Star
 - 🎉 分享给更多有需要的朋友
 - ☕ 请作者喝杯冰阔乐或咖啡
-- 💰 **赞赏了一定记得和我联系**
+- 💰 **赞赏了一定记得[和我联系(点我！)](https://wj.qq.com/s2/26394114/3f81/)**
 
 <div align="center">
   <div style="display: inline-block; margin: 0 20px;">
-    <img src="./docs/images/wechat_pay.jpg" height="300" alt="微信打赏">
-    <img src="./docs/images/alipay.png" height="300" alt="支付宝打赏">
+    <img src="https://oss.jiangmuxin.cn/cloudsaver/wechat_pay.jpg" height="300" alt="微信打赏">
+    <img src="https://oss.jiangmuxin.cn/cloudsaver/alipay.png" height="300" alt="支付宝打赏">
   </div>
 </div>
 
